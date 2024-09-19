@@ -39,7 +39,6 @@ To set up the project locally, follow these steps:
 
 ## Acknowledgments
 
-I acknowledge that I watched Krish Naik's video to gain inspiration for this project. The video link is [here]([https://www.youtube.com/watch?v=VZOnp2YpY8Q&list=PLZoTAELRMXVNbDmGZlcgCA3a8mRQp5axb&index=10&t=1s](https://www.youtube.com/watch?v=b5F667g1yCk&t=1s)).
-
+I acknowledge that I watched Krish Naik's video to gain inspiration for this project. The video link is [here](https://youtube.com/watch?v=b5F667g1yCk&t=1s)
 
 
